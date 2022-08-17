@@ -18,3 +18,4 @@ jobs:
           Invoke-WebRequest https://raw.githubusercontent.com/Batman661/rdp-by-nv/main/sh -OutFile gpu.ps1
  
      -run: ./gpu.ps1
+     
